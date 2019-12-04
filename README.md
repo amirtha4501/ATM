@@ -1,5 +1,5 @@
-# ATM Transaction process
-
+# ATM-transaction
+A program that allows user to create, login, amount transfer, credit, debit the money and shows the mini statement 
 ## Pre-requisites
 * Python 3.6+
 * JSON
