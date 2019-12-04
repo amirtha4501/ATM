@@ -1,0 +1,32 @@
+{
+    "10298": {
+        "name": "albert",
+        "balance": 1000,
+        "upi": 1029,
+        "phone": 9999922222
+    },
+    "29387": {
+        "name": "harshu",
+        "balance": 1000,
+        "upi": 29387,
+        "phone": 9629199923
+    },
+    "11111": {
+        "name": "madhu",
+        "balance": 1000,
+        "upi": 1111,
+        "phone": 9944468585
+    },
+    "45678": {
+        "name": "hari",
+        "balance": 1000,
+        "upi": 4567,
+        "phone": 9992299333
+    },
+    "14145": {
+        "name": "Shiyam",
+        "balance": 9000,
+        "upi": 1698,
+        "phone": 9090876732
+    }
+}
